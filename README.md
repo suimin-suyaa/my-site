@@ -22,7 +22,7 @@
 | CI/CD    | Github Actions                                              |
 | etc      | Vite,ESLint,prettier,Git,Github,animate-css,Font awesome,Vuetify |
 
-## 今後の展望
+## アップデート予定
 
 - お問い合わせページ、About ページの増設
 - ドメイン変更
