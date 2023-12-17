@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="400" alt="スクリーンショット 0005-12-17 13 42 48" src="https://github.com/suimin-suyaa/my-site/assets/118048244/2404d431-d979-471a-b94e-2191cf02e536">
+<img width="500" alt="スクリーンショット 0005-12-17 18 11 06" src="https://github.com/suimin-suyaa/my-site/assets/118048244/c798ffb4-8ef6-4eea-9fe9-eae0368b8833">
+
 </div>
 
 ## サイトイメージ
