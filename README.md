@@ -20,7 +20,7 @@
 | Front    | Vue3(CompositionAPI),TypeScript                             |
 | Backend  | Firebase Hosting                                            |
 | CI/CD    | Github Actions                                              |
-| etc      | Vite,ESLint,prettier,Git,Github,animate-css,Font awesome,Vuetify |
+| etc      | Node.js,nvm,Vite,ESLint,prettier,Git,Github,animate-css,Font awesome,Vuetify |
 
 ## アップデート予定
 
