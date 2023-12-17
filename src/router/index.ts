@@ -15,12 +15,12 @@ const routes = [
         component: () => import("@/views/Home.vue"),
       },
       {
-        path: "/MyPage",
+        path: "/TopPage",
         name: "MyPage",
         // route level code-splitting
         // this generates a separate chunk (Home-[hash].js) for this route
         // which is lazy-loaded when the route is visited.
-        component: () => import("@/views/TopPage.vue"),
+        component: () => import("../views/TopPage.vue"),
       },
     ],
   },

@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "chiaki-my-site"
+  },
+  "targets": {
+    "chiaki-my-site": {
+      "hosting": {
+        "my-site": [
+          "my-site"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
