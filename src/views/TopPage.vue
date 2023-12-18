@@ -1,8 +1,8 @@
 <template>
-  <div class="ma-4">
+  <div class="ma-16">
     <div>
       <h1
-        class="animate__animated animate__flash"
+        class="animate__animated animate__tada"
         v-for="title in titles"
         :key="title.id"
         style="color: #000000"
@@ -48,4 +48,12 @@ const titles = ref<Title[]>([
 ]);
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+h1 {
+  &.animate__animated.animate__flash {
+    @media (min-width: 769px) {
+      font-size: 70px;
+    }
+  }
+}
+</style>
