@@ -50,7 +50,7 @@ const titles = ref<Title[]>([
 
 <style lang="scss" scoped>
 h1 {
-  &.animate__animated.animate__flash {
+  &.animate__animated.animate__tada {
     @media (min-width: 769px) {
       font-size: 70px;
     }
