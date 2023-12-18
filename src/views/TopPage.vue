@@ -1,5 +1,5 @@
 <template>
-  <div class="ma-16">
+  <div class="ma-10">
     <div>
       <h1
         class="animate__animated animate__tada"
