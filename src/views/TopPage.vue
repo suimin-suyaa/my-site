@@ -1,5 +1,5 @@
 <template>
-  <div class="ma-10">
+  <div class="wrapper">
     <div>
       <h1
         class="animate__animated animate__tada"
@@ -49,6 +49,14 @@ const titles = ref<Title[]>([
 </script>
 
 <style lang="scss" scoped>
+.wrapper {
+  @media (max-width: 768px) {
+    margin-left: 7%;
+  }
+  @media (min-width: 769px) {
+    margin-left: 6%;
+  }
+}
 h1 {
   &.animate__animated.animate__tada {
     @media (min-width: 769px) {
