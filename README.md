@@ -1,7 +1,7 @@
 ## サイトイメージ
 
 <div align="center">
-  <img width="869" alt="スクリーンショット 0005-12-17 13 13 47" src="https://github.com/suimin-suyaa/my-site/assets/118048244/4d42f485-664e-4d0d-9ccd-33fa72feb6c1">
+<!--   <img width="869" alt="スクリーンショット 0005-12-17 13 13 47" src="https://github.com/suimin-suyaa/my-site/assets/118048244/4d42f485-664e-4d0d-9ccd-33fa72feb6c1"> -->
 </div>
 
 ## URL
