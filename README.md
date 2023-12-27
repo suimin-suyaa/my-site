@@ -1,7 +1,8 @@
 ## サイトイメージ
 
 <div align="center">
-  <img width="869" alt="スクリーンショット 0005-12-17 13 13 47" src="https://github.com/suimin-suyaa/my-site/assets/118048244/4d42f485-664e-4d0d-9ccd-33fa72feb6c1">
+<img width="869" alt="スクリーンショット 0005-12-17 13 13 47" src="https://github.com/suimin-suyaa/my-site/assets/118048244/f9445c5c-917c-421a-9051-8c029b979301">
+
 </div>
 
 ## URL
@@ -10,7 +11,8 @@
 
 ## 画面遷移図
 
-<img width="598" alt="スクリーンショット 0005-12-17 18 02 07" src="https://github.com/suimin-suyaa/my-site/assets/118048244/32aeec06-5bfa-4254-bc34-82c45d6bc421">
+<img width="598" alt="スクリーンショット 0005-12-17 18 02 07" src="https://github.com/suimin-suyaa/my-site/assets/118048244/7325837c-f454-4939-822d-855894de9d40">
+
 
 
 ## 使用技術
